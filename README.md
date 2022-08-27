@@ -1,1 +1,1 @@
-# Password-Generator
+# Password-Generator allows the user to request multiple passwords at a certain length and then generate them. Quite useful when setting up a password for character specific shiboleths when you can't think of a possible password. 
